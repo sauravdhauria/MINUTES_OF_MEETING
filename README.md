@@ -1,5 +1,5 @@
 📝 AI-Assisted Minutes of Meeting (MoM) Generator
-- 🚀 Live Demo
+- 🚀 Live Demo: https://minutesofmeetingaisaurav.streamlit.app/
 - 📌 Overview
 
 The AI-Powered Minutes of Meeting Generator is a Streamlit-based web application that helps convert raw meeting notes into structured, standardized, and professional minutes of meeting (MoM).
